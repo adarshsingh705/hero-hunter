@@ -26,8 +26,8 @@ To run this web page locally, follow these steps:
    git clone https://github.com/adarshsingh705/hero-hunter.git
    
 2. Hosted link:
-    ```bash
-    Link https://adarshsingh705.github.io/hero-hunter/
+    ```
+    https://adarshsingh705.github.io/hero-hunter/
 
    
 ## How to use
