@@ -4,9 +4,9 @@ This is a simple web page for hunting superheroes, created using HTML, CSS, and 
 
 ## Features
 
-- Superhero cards display with information such as name, image, comics available, and series available.
-- Users can add superheroes to their favorites list.
-- A button to remove superheroes from the favorites list.
+- Superhero cards display information such as name, image, comics available, and series available.
+- Users can add superheroes to their favourites list.
+- A button to remove superheroes from the favourites list.
 
 ## Technologies Used
 
@@ -23,6 +23,10 @@ To run this web page locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git https://github.com/adarshsingh705/hero-hunter.git
+   git clone https://github.com/adarshsingh705/hero-hunter.git
    
-
+#How to use
+1. Open the index.html file in a web browser.
+2. Browse through the list of superheroes.
+3. Click on the "Add to Favorites" button to add a superhero to your favourites.
+4. Click on the "Remove from Favorites" button to remove a superhero from your favourites.
