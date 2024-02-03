@@ -25,7 +25,7 @@ To run this web page locally, follow these steps:
    ```bash
    git clone https://github.com/adarshsingh705/hero-hunter.git
    
-#How to use
+## How to use
 1. Open the index.html file in a web browser.
 2. Browse through the list of superheroes.
 3. Click on the "Add to Favorites" button to add a superhero to your favourites.
