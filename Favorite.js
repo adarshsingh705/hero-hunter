@@ -6,7 +6,8 @@ const loaderOut = () => {
   document.body.removeChild(loader);
 };
 
-
+const url =
+  "https://gateway.marvel.com/v1/public/characters?ts=1&apikey=9b4ba214347a8aa5026223be1b759e44&hash=1530de2cd26f5e11d34d062cfb952ef7";
 
 window.onload = async () => {
   let favoriteHeroesContainer = "";
