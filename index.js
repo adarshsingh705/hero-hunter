@@ -22,7 +22,6 @@ window.onload = async () => {
     let data = await response.json();
     let characters = data.data.results;
 
-    console.log(characters);
 
     let charactersContainer = ``;
     let searchInput = document.getElementById("search");
