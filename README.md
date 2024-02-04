@@ -5,8 +5,8 @@ This is a simple web page for hunting superheroes, created using HTML, CSS, and 
 ## Features
 
 - Superhero cards display information such as name, image, comics available, and series available.
-- Users can add superheroes to their favourites list.
-- A button to remove superheroes from the favourites list.
+- Users can add superheroes to their favorites list.
+- A button to remove superheroes from the favorites list.
 
 ## Technologies Used
 
